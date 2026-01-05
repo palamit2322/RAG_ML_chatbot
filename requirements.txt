@@ -7,3 +7,5 @@ python-dotenv
 fastapi
 pypdf
 faiss-cpu
+jinja2
+uvicorn
