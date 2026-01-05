@@ -1,7 +1,9 @@
-langchain
+langchain==1.2.0
+langchain-core
 langchain-community
-fastapi
 langchain-openai
+
 python-dotenv
+fastapi
 pypdf
 faiss-cpu
